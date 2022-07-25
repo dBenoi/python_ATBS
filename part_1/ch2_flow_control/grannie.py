@@ -1,8 +1,7 @@
 print("What is your name?")
 name = input()
 print("What is your age?")
-age = input()
-age = int(age)
+age = int(input())
 
 if name == 'Alice' and age < 100 and age > 12:
     print("Good morning Alice!")
