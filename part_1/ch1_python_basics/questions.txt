@@ -1,0 +1,34 @@
+1. Which are operators and which are values?
+    * = operator
+    'hello' = value
+    -88.8 = value
+    - = operator
+    / = operator
+    + = operator
+    5 = operator
+2. Variable or string?
+    spam = variable
+    'spam' = string
+3. Three data types
+    string
+    float
+    boolean
+4. What is an expression?
+    Expressions consist of values and operators, and they can always evaluate down to a single value.
+5. What is the difference between an expression and a statement?
+    Expressions evaluate to a single value, statements assign those values for later use
+6. What does the variable bacon contain after the following code?
+    bacon = 20
+    bacon + 1
+    ---bacon = 20, the value didn't change---
+7. What should the two expressions evaluate to?
+    'spam' + 'spamspam'
+    'spam' * 3
+    ---'spamspamspam'---
+8. Why is eggs a valid variable name while 100 is not.
+    ---variables cannot start with a number---
+9. What three functions can be used to get the integer, floating-point number, or string version of a value?
+    ---int(), float(), str()---
+10. Why does the following expression cause an error? How can we fix it?
+    'I have eaten ' + 99 + ' burritos.'
+    ---99 must be converted to a string using str()---
