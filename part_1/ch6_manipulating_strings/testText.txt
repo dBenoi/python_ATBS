@@ -1,0 +1,15 @@
+this
+is 
+a 
+list
+for
+bullet
+points
+
+* this
+* is 
+* a 
+* list
+* for
+* bullet
+* points
