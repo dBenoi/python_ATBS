@@ -1,0 +1,4 @@
+raw strings
+- syntax: print(r'C:\Users\David\Desktop')
+- ignores all escape characters, useful for printing windows file paths
+
