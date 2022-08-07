@@ -15,3 +15,5 @@ phone number: \d{3}-\d{3}-\d{4}
 - use regObj.search() to search the string
 - will return none if pattern not found
 - will return Match object, which will have a group() method that will return the actual matched text.
+- the '?' means that the preceding pattern is optional with ZERO OR ONE instances
+- the '*' means that the preceding pattern is match OR MORE
